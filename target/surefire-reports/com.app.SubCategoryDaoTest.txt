@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.app.SubCategoryDaoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.app.SubCategoryDaoTest
+testSubCDao  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.app.SubCategoryDaoTest.testSubCDao(SubCategoryDaoTest.java:20)
+
